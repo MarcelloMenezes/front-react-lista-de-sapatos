@@ -1,4 +1,6 @@
-**Mini desafio**, nele você irá praticar tudo o que aprendeu nessa aula e no curso.
+## **Mini desafio**
+
+Site simulando vendas de sapatos masculinos
     
     Regras:
     - Pensar bem na componentização do projeto 
