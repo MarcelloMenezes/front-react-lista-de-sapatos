@@ -1,0 +1,19 @@
+footer {
+    background-color: gray;
+    display: flex;
+    justify-content: space-around;
+    padding: 30px;
+  }
+  
+  .endereco  {
+    width: 50vw;
+    border-right: 1px solid black;
+  }
+  
+  .endereco-cubos{
+    margin: 20px 0px;
+  }
+  
+  .imgFacebook{
+    margin-right: 15px;
+  }

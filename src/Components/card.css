@@ -1,0 +1,26 @@
+.card {
+    width: 350px;
+    margin-right: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.flex{
+    display: flex;
+}
+
+.flex-center{
+    display: flex;
+    align-items: center;
+}
+
+.imgSapato {
+    width: 250px;
+    cursor: pointer;
+}
+
+.risco{
+    text-decoration: line-through;
+}
